@@ -1,0 +1,8 @@
+1.class and obj(in python)....example...
+2.class has attributes and methods...
+3.why python is called oop?..-->every thing in python is an object..
+4.advantage of python:
+  > you can create your own datatype
+  > code reusability
+  > debugging
+  > easy to colab
